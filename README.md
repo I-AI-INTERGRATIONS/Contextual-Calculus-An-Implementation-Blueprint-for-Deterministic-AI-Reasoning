@@ -1,2 +1,3 @@
 # Contextual-Calculus-An-Implementation-Blueprint-for-Deterministic-AI-Reasoning
 This is a very redacted version,  the algo it self is wel ldocumented and has a basis  of situational defualts  but  like what do i know ive only been building  ai bots since before open .ai even existed   -pow -CONTESXTUAL  REASONING  4 ANY-MODEL  IN UNDER 100 lines of code  the larger reasonong package is avalble for purchse 
+Soneone told me to work on my reasoning so I litterally worked it out -The citation not the situatuation
